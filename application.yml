@@ -8,4 +8,4 @@ eureka:
       hostname: localhost
 
 
-isFromRedis: true
+isFromRedis: false
