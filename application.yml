@@ -9,3 +9,5 @@ eureka:
 
 
 isFromRedis: false
+
+cacheImpl: localCache
